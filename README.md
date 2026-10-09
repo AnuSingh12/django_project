@@ -22,8 +22,8 @@ A REST API project for user authentication built using Django, Django REST Frame
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
-   cd user-auth-jwt
+   git clone https://github.com/AnuSingh12/django_project.git
+   cd django_project
    ```
 
 2. Create and activate a virtual environment:
